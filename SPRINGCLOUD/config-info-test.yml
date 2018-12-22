@@ -1,0 +1,4 @@
+
+cn:
+  springcloud:
+    config: git config file
